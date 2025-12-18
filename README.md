@@ -1,4 +1,4 @@
 # frontendlesson1
 Learning frontend
-
-Learnng together on HTML
+CV MARK UP
+Learning together on HTML
